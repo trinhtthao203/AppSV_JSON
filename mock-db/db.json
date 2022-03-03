@@ -1,0 +1,83 @@
+{
+  "sinhvien": [
+    {
+      "mssv": "B001",
+      "hten": "Lê Văn Tuấn Anh",
+      "id": 1
+    },
+    {
+      "mssv": "B002",
+      "hten": "Nguyễn Thị Hà Thu",
+      "id": 2
+    },
+    {
+      "mssv": "B003",
+      "hten": "Trần Thanh Lý",
+      "id": 3
+    },
+    {
+      "mssv": "B004",
+      "hten": "Đỗ Thắng Nghị",
+      "id": 4
+    },
+    {
+      "mssv": "B005",
+      "hten": "Phan Văn Tùng",
+      "id": 5
+    },
+    {
+      "mssv": "B006",
+      "hten": "Đỗ Thắng Nghị",
+      "id": 6
+    },
+    {
+      "mssv": "B008",
+      "hten": "Lê Ngọc Thanh Na",
+      "id": 8
+    },
+    {
+      "mssv": "B009",
+      "hten": "Phạm Công Tính",
+      "id": 9
+    },
+    {
+      "mssv": "B010",
+      "hten": "Ngô Văn Vinh",
+      "id": 10
+    }
+  ],
+  "monhoc": [
+    {
+      "id": 1,
+      "mamon": "CT180",
+      "tenmon": "Cơ sở dữ liệu",
+      "sotc": 3
+    }
+  ],
+  "hoc": [
+    {
+      "id": 1,
+      "mssv": "B003",
+      "mamon": "CT180",
+      "diem": 8.5
+    },
+    {
+      "mssv": "B002",
+      "mamon": "CT180",
+      "diem": 10,
+      "id": 2
+    },
+    {
+      "mssv": "B010",
+      "mamon": "CT180",
+      "diem": 7,
+      "id": 2
+    },
+    {
+      "mssv": "B009",
+      "mamon": "CT180",
+      "diem": 9,
+      "id": 3
+    }
+  ]
+}

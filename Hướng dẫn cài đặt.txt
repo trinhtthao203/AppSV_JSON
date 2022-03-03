@@ -1,0 +1,12 @@
+Trước khi chạy dự án, máy chắc chắn đã cài đặt ReactNative.
+
+Cách chạy dự án
+Bước 1: Chạy dòng lệnh sau vào terminal: npm i json-server --save-dev //Thư viện sẽ được tải cùng nodemodule. Trong Nodemodule sẽ tự động thêm thư viện đã được tải trong dự án trong file package.json
+Bước 2: Chạy dòng lệnh sau vào terminal: npm run mock-server
+Bước 3: Giải nén và chạy file ngrok.exe kèm bên ngoài 
+Bước 5: Nhập ngrok http 3000 vào cửa sổ hiện lên
+Bước 4: Copy đường dẫn http://.............io vào baseURL ở file App.js
+Bước 5: Chạy dòng lệnh sau vào terminal khác: npm start 
+Bước 6: Mở điện thoại mở App Expo và scan mã QR
+
+/*Xem các thư viện được sử dụng trong dự án trong file package.json nếu có lỗi phiên bản trong lúc chạy*/
